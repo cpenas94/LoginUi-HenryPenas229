@@ -1,0 +1,30 @@
+[33mcommit 5acbcdf27e385138ac968bc086141903f90c6d54[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: a132c93 8d82c5b
+Author: cpenas94 <henrypenas94@gmail.com>
+Date:   Tue Oct 18 18:49:17 2022 -0700
+
+    Merge branch 'main' of https://github.com/cpenas94/LoginUi-HenryPenas229
+
+[33mcommit a132c93f074de051ade813c212a6a19d2a94d3f8[m
+Author: cpenas94 <henrypenas94@gmail.com>
+Date:   Tue Oct 18 18:42:54 2022 -0700
+
+    Added checkbox
+
+[33mcommit ca3ffccf2a825b85c59f454a493930e3e5447444[m
+Author: cpenas94 <henrypenas94@gmail.com>
+Date:   Tue Oct 18 18:30:59 2022 -0700
+
+    Added Remember me checkbox
+
+[33mcommit 8d82c5b9337d80521beee05d8a1ffa45d780dd67[m
+Author: cpenas94 <101071031+cpenas94@users.noreply.github.com>
+Date:   Tue Oct 18 17:36:16 2022 -0700
+
+    Delete .vscode directory
+
+[33mcommit 9c4a279710b2486f7ae9d8563c036978f07857c4[m
+Author: cpenas94 <henrypenas94@gmail.com>
+Date:   Tue Oct 18 17:34:31 2022 -0700
+
+    Rough Draft
