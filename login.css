@@ -21,6 +21,7 @@ html,body{
     flex-direction: column;
     text-align: center;
     align-items: center;
+    box-shadow: 1px 1px 1px #99999942;
     padding: 20px
 }
 .input {
